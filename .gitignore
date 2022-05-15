@@ -1,0 +1,9 @@
+*.exe
+.vscode/
+.vs/
+x64/
+*.sln
+*.vcxproj*
+
+test.cpp
+main.cpp
