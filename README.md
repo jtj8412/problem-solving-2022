@@ -9,10 +9,10 @@ Level3		0
 
 ## Baekjoon
 ```
-Bronze		51
-Silver		4
+Bronze		60
+Silver		11
 Gold		0
 Platinum	0
 ```
 
-Total Update: 22.05.25
+Total Update: 22.06.05
